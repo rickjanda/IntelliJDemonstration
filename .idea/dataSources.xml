@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3067534604">
+    <data-source source="LOCAL" name="cookies" uuid="4cb4cefb-c1f8-4cf1-9d31-d67db34e375d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\IDEAProjects\CompletionAndRefactoring\cookies.sqlite</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
